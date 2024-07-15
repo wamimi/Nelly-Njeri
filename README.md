@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @NellyNjeri
-- 👀 I’m interested in Software Development, Blockchain Development and Machine Learning.
-- 🌱 I’m currently learning Rust and Solidity
-- 💞️ I’m looking to collaborate on Projects on Software Development and Blockchain Development.
-- 📫 How to reach me via Linkedin @Nelly Njeri
-- 😄 Pronouns: She/Her
+- 👋 Konnichiwa, i'm Njerii
+- 👀 A passionate student developer on a quest to slay the "skill issues" dragon.
+- 🌱 Currently feeding my Rust obsession by Learning and showing up consistently. 
+- 💞️ I am also tinkering with Solana Development
+- I'm constantly learning and building. Keep an eye on this space for future projects! 
 
 <!---
 Nelly-Njeri/Nelly-Njeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
