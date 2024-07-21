@@ -3,7 +3,7 @@
 - 🌱 Currently feeding my Rust obsession by Learning and showing up consistently. 
 - 💞️ I am also tinkering with Solana and EVM development
 - I'm constantly learning and building. Keep an eye on this space for future projects!
-- I will be a skilled talented dev - lets work on the skil issues first while learning and empowering others!!! 
+- I will be a skilled talented dev - lets work on the skill issues first while learning and empowering others!!! 
 
 <!---
 Nelly-Njeri/Nelly-Njeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
